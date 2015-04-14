@@ -140,7 +140,7 @@ let [s:lcmap, s:prtmaps] = ['nn <buffer> <silent>', {
 	\ 'PrtCurEnd()':          ['<c-e>'],
 	\ 'PrtCurLeft()':         ['<c-h>', '<left>', '<c-^>'],
 	\ 'PrtCurRight()':        ['<c-l>', '<right>'],
-	\ 'PrtClearCache()':      ['<F5>'],
+	\ 'PrtClearCache()':      ['<F5>','<s-F5>'],
 	\ 'PrtDeleteEnt()':       ['<F7>'],
 	\ 'CreateNewFile()':      ['<c-y>'],
 	\ 'MarkToOpen()':         ['<c-z>'],
